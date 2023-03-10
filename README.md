@@ -6,3 +6,5 @@
 2. Choose folder named "1" to take WebGL build.
 3. Delete the index.html file in folder "1". 
 4. Clone this repository then drag & drop the folder "1" into cloned folder.
+
+_Readme.md is not valuable in this process_
